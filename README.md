@@ -62,18 +62,13 @@ After running the application, you'll see an interface where you can:
 
 ## Sorting Algorithms
 
-### 1. Selection Sort
+### Selection Sort
 
 **Description**: Selection Sort divides the array into a sorted and an unsorted region. It repeatedly selects the smallest element from the unsorted region and moves it to the sorted region.
 
-<!-- **Video**:
-*![Selection Sort Visualization](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZpa3V6amdvYWJnamdsbHliYXNnOG9wd3o2dXJuOXpnc2hncWM1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.webp)* -->
+**Video**: 
 
-**Video**:
-
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=y9PQeKDgrtI" type="video/mp4">
-</video>
+![Selection Sort](/1321208-uhd_3840_2160_30fps.gif)
 
 **Image**: 
 
@@ -81,18 +76,13 @@ After running the application, you'll see an interface where you can:
 
 ---
 
-### 2. Bubble Sort
+### Bubble Sort
 
 **Description**: Bubble Sort repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The process continues until no swaps are needed.
 
-<!-- **Video**:
-*![Selection Sort Visualization](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZpa3V6amdvYWJnamdsbHliYXNnOG9wd3o2dXJuOXpnc2hncWM1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.webp)* -->
+**Video**: 
 
-**Video**:
-
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=y9PQeKDgrtI" type="video/mp4">
-</video>
+![Bubble Sort](/1321208-uhd_3840_2160_30fps.gif)
 
 **Image**: 
 
@@ -100,18 +90,13 @@ After running the application, you'll see an interface where you can:
 
 ---
 
-### 3. Insertion Sort
+### Insertion Sort
 
 **Description**: Insertion Sort builds the sorted array one item at a time by comparing each new element to the already sorted elements and inserting it in the correct position.
 
-<!-- **Video**:
-*![Selection Sort Visualization](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZpa3V6amdvYWJnamdsbHliYXNnOG9wd3o2dXJuOXpnc2hncWM1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.webp)* -->
+**Video**: 
 
-**Video**:
-
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=y9PQeKDgrtI" type="video/mp4">
-</video>
+![Insertion Sort](/1321208-uhd_3840_2160_30fps.gif)
 
 **Image**: 
 
@@ -119,18 +104,13 @@ After running the application, you'll see an interface where you can:
 
 ---
 
-### 4. Merge Sort
+### Merge Sort
 
 **Description**: Merge Sort is a divide-and-conquer algorithm that divides the array into halves, sorts them, and merges the sorted halves back together.
 
-<!-- **Video**:
-*![Selection Sort Visualization](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZpa3V6amdvYWJnamdsbHliYXNnOG9wd3o2dXJuOXpnc2hncWM1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.webp)* -->
+**Video**: 
 
-**Video**:
-
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=y9PQeKDgrtI" type="video/mp4">
-</video>
+![Merge Sort](/1321208-uhd_3840_2160_30fps.gif)
 
 **Image**: 
 
