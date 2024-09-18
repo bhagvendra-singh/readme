@@ -68,7 +68,7 @@ After running the application, you'll see an interface where you can:
 
 **Video**: 
 
-![Selection Sort](/1321208-uhd_3840_2160_30fps.gif)
+![Selection Sort](/testing.gif)
 
 **Image**: 
 
@@ -82,7 +82,7 @@ After running the application, you'll see an interface where you can:
 
 **Video**: 
 
-![Bubble Sort](/1321208-uhd_3840_2160_30fps.gif)
+![Bubble Sort](/testing.gif)
 
 **Image**: 
 
@@ -96,7 +96,7 @@ After running the application, you'll see an interface where you can:
 
 **Video**: 
 
-![Insertion Sort](/1321208-uhd_3840_2160_30fps.gif)
+![Insertion Sort](/testing.gif)
 
 **Image**: 
 
@@ -110,7 +110,7 @@ After running the application, you'll see an interface where you can:
 
 **Video**: 
 
-![Merge Sort](/1321208-uhd_3840_2160_30fps.gif)
+![Merge Sort](/testing.gif)
 
 **Image**: 
 
